@@ -1,15 +1,13 @@
 # Adaptive Wind Power Forecasting Using Concept Drift Detection
 
-**Team:** `B14` | **A Final-Year Artificial Intelligence & Machine Learning Engineering Project**  
+**A Final-Year Artificial Intelligence & Machine Learning Engineering Project**  
 *Department of Artificial Intelligence and Machine Learning*  
 *Panimalar Engineering College (An Autonomous Institution, Affiliated to Anna University, Chennai)*  
 
 **Candidates:**  
 - **Thanya B**  
 - **Thejessri S**  
-
-**Supervisor:** Mr. M. Ezhilvendhan, M.E., Assistant Professor  
-**Head of Department:** Dr. G. Suresh, M.Tech., Ph.D.  
+ 
 **Academic Year:** 2025–2026 | October 2026  
 
 > 📊 **Official Deliverables for Viva Examination:**
